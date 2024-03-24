@@ -6,5 +6,7 @@ Continuing on the previous Java Web Key Server, this uses SQLite in order to pro
 ## Getting Started
 
 ### Dependencies
+Cryptography 41.0.4
+Pyjwt 2.8.0
 
 ### Executing Program
