@@ -8,6 +8,7 @@ This continuation of the Java Web Key Server was programmed with the goal of add
 To begin, make sure that SQLite is running in the same folder as totally_not_my_privateKeys.db, and then run the python script using your terminal or IDE of choosing. 
 
 ### Dependencies
-Cryptography 41.0.4
-Pyjwt 2.8.0
-SQLite 3.45.2
+* Python 3.11.8
+* Cryptography 41.0.4
+* Pyjwt 2.8.0
+* SQLite 3.45.2
