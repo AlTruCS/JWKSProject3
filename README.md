@@ -5,7 +5,11 @@ Continuing on the previous Java Web Key Server, this uses SQLite in order to pro
 This continuation of the Java Web Key Server was programmed with the goal of adding the bare minimum to the complexity of the Project 1 base, with the only module addition to the main script being the required prerequisite of SQLite.
 
 ## Getting Started
-To begin, make sure that SQLite is running in the same folder as ```totally_not_my_privateKeys.db```, and then run the python script using your terminal or IDE of choosing. 
+To begin, run a terminal window and enter the following to ensure that SQLite is properly running the private key database:
+
+```sqlite3 totally_not_my_privateKeys.db```
+
+Once the process has started, load the ```main.py``` script using your IDE or terminal of choosing.
 
 ### Dependencies
 * Python 3.11.8
