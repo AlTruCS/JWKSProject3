@@ -1,8 +1,8 @@
-# JWKS Project 2
-Continuing on the previous Java Web Key Server, this uses SQLite in order to produce a clientside database file for the storage of private keys.
+# JWKS Project 3
+In the final part of the Java Web Key server project, this update will include AES encryption for private keys, user registration, and auth logging.
 
 ## Description
-This continuation of the Java Web Key Server was programmed with the goal of adding the bare minimum to the complexity of the Project 1 base, with the only module addition to the main script being the required prerequisite of SQLite.
+This continuation of the Java Web Key Server uses a variety of additional tools and libraries to complete the new needs of the project.
 
 ## Getting Started
 To begin, run a terminal window and enter the following to ensure that SQLite is properly running the private key database:
